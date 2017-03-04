@@ -416,7 +416,7 @@
     <fields>
         <fullName>SLA__c</fullName>
         <externalId>false</externalId>
-        <inlineHelpText>SLA for your customer</inlineHelpText>
+        <inlineHelpText>SLA for your customers</inlineHelpText>
         <label>SLA</label>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
