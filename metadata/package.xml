@@ -402,7 +402,7 @@
         <members>UserShare</members>
         <members>VerificationHistory</members>
         <members>Vote</members>
-        <members>WebLink</members>
+        <members>WebLinks</members>
         <name>CustomObject</name>
     </types>
     <types>
