@@ -416,7 +416,6 @@
     <fields>
         <fullName>SLA__c</fullName>
         <externalId>false</externalId>
-        <inlineHelpText>SLA for your customer</inlineHelpText>
         <label>SLA</label>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
@@ -441,7 +440,7 @@
                 </value>
                 <value>
                     <fullName>Bronze</fullName>
-                    <default>true</default>
+                    <default>false</default>
                     <label>Bronze</label>
                 </value>
             </valueSetDefinition>
