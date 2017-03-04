@@ -118,7 +118,6 @@
     </fields>
     <fields>
         <fullName>Description</fullName>
-        <encrypted>false</encrypted>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
@@ -127,12 +126,10 @@
     </fields>
     <fields>
         <fullName>Email</fullName>
-        <encrypted>false</encrypted>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
         <fullName>Fax</fullName>
-        <encrypted>false</encrypted>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
@@ -145,7 +142,6 @@
     </fields>
     <fields>
         <fullName>HomePhone</fullName>
-        <encrypted>false</encrypted>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
@@ -154,7 +150,6 @@
     </fields>
     <fields>
         <fullName>Languages__c</fullName>
-        <encrypted>false</encrypted>
         <externalId>false</externalId>
         <label>Languages</label>
         <length>100</length>
@@ -222,17 +217,14 @@
     </fields>
     <fields>
         <fullName>MailingAddress</fullName>
-        <encrypted>false</encrypted>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
         <fullName>MobilePhone</fullName>
-        <encrypted>true</encrypted>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
         <fullName>Name</fullName>
-        <encrypted>false</encrypted>
         <trackFeedHistory>true</trackFeedHistory>
     </fields>
     <fields>
@@ -241,7 +233,6 @@
     </fields>
     <fields>
         <fullName>OtherPhone</fullName>
-        <encrypted>false</encrypted>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
@@ -251,7 +242,6 @@
     </fields>
     <fields>
         <fullName>Phone</fullName>
-        <encrypted>false</encrypted>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
