@@ -367,7 +367,6 @@
         <members>TaskFeed</members>
         <members>TaskPriority</members>
         <members>TaskStatus</members>
-        <members>TenantSecret</members>
         <members>TenantUsageEntitlement</members>
         <members>TestSuiteMembership</members>
         <members>ThirdPartyAccountLink</members>
