@@ -441,7 +441,7 @@
                 </value>
                 <value>
                     <fullName>Bronze</fullName>
-                    <default>true</default>
+                    <default>false</default>
                     <label>Bronze</label>
                 </value>
             </valueSetDefinition>
